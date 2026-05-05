@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, soy Miguel 👋
 
-<!--
-**NeilRmz/NeilRmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer con fundamentos en física teórica y matemática aplicada.  
+Especializado en resolver problemas complejos con código limpio y arquitecturas escalables.
 
-Here are some ideas to get you started:
+## Mi enfoque
+Transformo problemas difíciles en sistemas robustos. Mi background en procesos estocásticos 
+y métodos numéricos me permite diseñar soluciones donde otros ven complejidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Backend:** Node.js, TypeScript, NestJS  
+**Frontend:** Next.js, JavaScript  
+**Data & Algorithms:** Python, métodos numéricos, simulaciones estocásticas  
+**DevOps:** Docker, Redis, Linux, Git  
+
+## Áreas de interés
+- Sistemas de alta concurrencia
+- APIs para procesamiento de datos complejos
+- Arquitecturas event-driven
+- Modelado probabilístico aplicado a software
+
+## Contacto
+- LinkedIn: [[neilrmz](https://www.linkedin.com/in/neilrmz/)]
+- Email: [danmrmz@proton.me]
