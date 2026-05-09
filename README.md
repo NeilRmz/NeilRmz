@@ -1,40 +1,69 @@
-## Backend Developer · Física teórica y matemática aplicada · Código limpio y escalable
+# 💚 Hey, soy dios
 
-### Tech Stack
+**Backend Developer con fundamentos en física teórica y matemática aplicada**
 
-|    | BACKEND | NODE / TS / NEST | FRONTEND | REACT / NEXT / VITE | ENFOQUE | ALTA CONCURRENCIA |
-|---|---|---|---|---|---|---|
-| **NODE.JS** | TYPESCRIPT | NESTJS    | EXPRESS    | REACT.JS    | NEXT.JS   | VITE |
-| **PYTHON** | DOCKER | REDIS    | GIT    | LINUX    | MÉTODOS NUMÉRICOS | PROCESOS ESTOCÁSTICOS |
-| **SIMULACIONES** | ARQUITECTURAS EVENT-DRIVEN | MODELADO PROBABILÍSTICO  |    |    |    |    |
+Especializado en resolver problemas complejos con código limpio y arquitecturas escalables.
 
 ---
 
-### Badges
-![Node.js](https://img.shields.io/badge/NODE.JS-2ecc71?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-27ae60?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NESTJS-1abc9c?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/REACT-2ecc71?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-27ae60?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-1abc9c?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-2ecc71?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-27ae60?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-1abc9c?style=flat-square&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-2ecc71?style=flat-square&logo=python&logoColor=white)
+## 🎯 Mi enfoque
+
+Transformo problemas difíciles en sistemas robustos. Mi background en procesos estocásticos y métodos numéricos me permite diseñar soluciones donde otros ven complejidad.
 
 ---
 
-### Fonts
-⚡ Node.js · 🧩 TypeScript · 🔷 NestJS · ⚛️ React · 🟢 Next.js · 🐍 Python
+## 🛠️ Tech Stack
+
+### Especialización
+`FULL STACK` `NODE.JS` `TYPESCRIPT` `NESTJS`
+
+### Lenguajes
+`JAVASCRIPT` `TYPESCRIPT` `PYTHON` `MATLAB`
+
+### Frontend
+`REACT` `NEXT.JS` `VITE`
+
+### Backend  
+`NODE.JS` `TYPESCRIPT` `NESTJS` `EXPRESS`
+
+### Bases de Datos
+`POSTGRESQL` `MONGODB` `REDIS` `FIREBASE`
+
+### DevOps & Tools
+`DOCKER` `GIT` `LINUX` `GITHUB`
+
+### Ciencia de Datos & Matemática
+`MATLAB` `NUMPY` `SCIPY` `MÉTODOS NUMÉRICOS`
 
 ---
 
-### Áreas de interés
-- Sistemas de alta concurrencia
-- APIs para procesamiento de datos complejos
-- Arquitecturas event-driven
-- Modelado probabilístico aplicado a software
+## ⚡ Áreas de interés
 
-## Contacto
-- LinkedIn: [[neilrmz](https://www.linkedin.com/in/neilrmz/)]
-- Email: [danmrmz@proton.me]
+- **Sistemas de alta concurrencia** - Optimización y escalabilidad
+- **APIs para procesamiento de datos complejos** - Big Data y real-time
+- **Arquitecturas event-driven** - Sistemas distribuidos
+- **Modelado probabilístico aplicado a software** - Procesos estocásticos
+- **Computación científica** - Simulaciones y métodos numéricos
+
+---
+
+## 📊 Mis números
+
+![GitHub stats](https://img.shields.io/badge/Followers-?-00A86B?style=flat-square)
+![Following](https://img.shields.io/badge/Following-?-228B22?style=flat-square)
+
+---
+
+## 📫 Contáctame
+
+- **Email:** tu@email.com
+- **LinkedIn:** [tu-perfil]
+- **GitHub:** [@tu-usuario]
+
+---
+
+<div align="center">
+
+**💚 Construyendo sistemas que importan 💚**
+
+</div>
