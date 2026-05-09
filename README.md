@@ -1,15 +1,3 @@
-# Hey, soy Miguel 👋
-
-MiguelDev · he/him
-
-Edit profile  
-13 followers · 42 following  
-
-📍 Venezuela  
-miguel@tudominio.com  
-
----
-
 ## Backend Developer · Física teórica y matemática aplicada · Código limpio y escalable
 
 ### Tech Stack
